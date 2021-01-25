@@ -1,4 +1,10 @@
-### Hi there 👋
+## Ndewo! Ẹ n lẹ! Hallo! Hello! 👋🏿
+My name's Chidinma. I am a software engineer with interests in front-end software development, back-end software development, cloud computing and and machine learning engineering.
+
+### Find me around the web 🌎:
+- Sharing tips and tricks or goofing around on <a href="https://www.twitter.com/ChidinmaKO">Twitter</a> 🐦
+- Sharing updates on <a href="https://www.linkedin.com/in/chidinmako/">LinkedIn</a> 💼
+- Learning in public on <a href="http://chidinma.dev">chidinma.dev</a> ✍🏿
 
 <!--
 **ChidinmaKO/ChidinmaKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
