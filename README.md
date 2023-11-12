@@ -1,5 +1,5 @@
 ## Ndewo! Ẹ n lẹ! Hallo! Hello! 👋🏿
-My name's Chidinma. I am a software engineer with interests in front-end software development, back-end software development, cloud computing and and machine learning engineering.
+My name's Chidinma. I am a software engineer with interests in back-end software development, front-end software development, database engineering, cloud computing, and machine learning engineering.
 
 ### Find me around the web 🌎:
 - Sharing tips and tricks or goofing around on <a href="https://www.twitter.com/ChidinmaKO">Twitter</a> 🐦
