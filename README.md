@@ -1,10 +1,13 @@
 ## Ndewo! Ẹ n lẹ! Hallo! Hello! 👋🏿
-My name's Chidinma. I am a software engineer with interests in back-end software development, front-end software development, database engineering, cloud computing, and machine learning engineering.
 
-### Find me around the web 🌎:
-- Sharing tips and tricks or goofing around on <a href="https://www.twitter.com/ChidinmaKO">Twitter</a> 🐦
-- Sharing updates on <a href="https://www.linkedin.com/in/chidinmako/">LinkedIn</a> 💼
-- Learning in public on <a href="http://chidinma.dev">chidinma.dev</a> ✍🏿
+[Website](https://chidinmakalu.com) · [Writing](https://chidinma.dev) · [LinkedIn](https://www.linkedin.com/in/ChidinmaKO)
+
+I am Chidinma, a senior software engineer focused on backend and distributed systems. 
+
+- **Building with** Python, Java, and Perl.
+- **Interested in** how concurrent and distributed systems behave when things go wrong, and how to keep them correct.
+- **Writing and teaching** to understand things better and help others do the same.
+- **Away from the keyboard:** strength training, hiking, learning Spanish, and salsa.
 
 <!--
 **ChidinmaKO/ChidinmaKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
