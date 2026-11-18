@@ -5,7 +5,7 @@
 I am Chidinma, a senior software engineer focused on backend and distributed systems. 
 
 - **Building with** Python, Java, and Perl.
-- **Interested in** how concurrent and distributed systems behave when things go wrong, and how to keep them correct.
+- **Interested in** how concurrent and distributed systems work beyond the happy path, why they are designed the way they are, and how to keep them correct.
 - **Writing and teaching** to understand things better and help others do the same.
 - **Away from the keyboard:** strength training, hiking, learning Spanish, and salsa.
 
